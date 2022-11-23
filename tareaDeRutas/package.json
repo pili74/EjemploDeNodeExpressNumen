@@ -1,0 +1,14 @@
+{
+  "name": "tareaderutas",
+  "version": "1.0.0",
+  "description": "primera tarea de backend",
+  "main": "tareaderutas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "encinasea",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
